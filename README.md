@@ -12,7 +12,7 @@
 ---
 ---
 
-## 👤 About Me
+## 👨‍💻 About Me
 
 In addition to my successful business achievements, I am actively shaping my career in software development by combining analytical thinking and process management with the comprehensive Software Specialist program at Arı Bilgi Education Institution.
 
