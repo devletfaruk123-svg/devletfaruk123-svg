@@ -20,7 +20,7 @@ In addition to my successful business achievements, I am actively shaping my car
 
 ## 📊 Stats
 
-<img src="https://streak-stats.demolab.com?user=devletfaruk123-svg&hide_border=true&background=0a0a0a&stroke=1e3799&ring=00a8ff&fire=1e3799&currStreakLabel=00a8ff&sideLabels=a8d8ff&sideNums=ffffff&dates=5a7a9a&border_radius=10" width="51%"/>
+<img src="https://streak-stats.demolab.com?user=devletfaruk123-svg&hide_border=true&background=0a0a0a&stroke=0052cc&ring=0066ff&fire=0052cc&currStreakLabel=0066ff&sideLabels=0066ff&sideNums=ffffff&dates=0052cc&border_radius=10" width="51%"/>
 
 </td>
 </tr>
