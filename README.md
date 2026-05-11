@@ -84,11 +84,15 @@ To translate technical knowledge into real-world solutions and establish myself 
 
   ## 📬 Connect With Me
 
-  <a href="https://github.com/devletfaruk123-svg">
+<a href="https://www.linkedin.com/in/ömer-faruk-devlet-barış-765b3b3b6">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/devletfaruk123-svg">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:devletfaruk123@icloud.com">
+</a>
+<a href="mailto:devletfaruk123@icloud.com">
     <img src="https://img.shields.io/badge/Email-0A84FF?style=for-the-badge&logo=apple&logoColor=white" alt="Email"/>
-  </a>
+</a> 
+  a>
 
-</div>
+</div> 
