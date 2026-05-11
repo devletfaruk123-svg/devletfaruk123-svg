@@ -93,6 +93,5 @@ To translate technical knowledge into real-world solutions and establish myself 
 <a href="mailto:devletfaruk123@icloud.com">
     <img src="https://img.shields.io/badge/Email-0A84FF?style=for-the-badge&logo=apple&logoColor=white" alt="Email"/>
 </a> 
-  a>
 
 </div> 
